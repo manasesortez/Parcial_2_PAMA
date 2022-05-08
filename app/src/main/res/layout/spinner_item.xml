@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textColor="#283241"
+    android:textSize="17dp"
+    android:paddingRight="10dp"
+    android:padding="6dp"
+    android:fontFamily="@font/seguisb"
+    tools:ignore="MissingPrefix,RtlHardcoded,RtlSymmetry,SpUsage" />

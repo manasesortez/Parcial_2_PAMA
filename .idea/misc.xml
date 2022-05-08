@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/activity_forget_password.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/activity_login.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/activity_register.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/activity_user_main.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/frame_list.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/item_recyclerdoctor.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/item_recyclerspecialty.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/item_recyclerview.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/item_view_reservations.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/list_black_text.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/agilesReservations/app/src/main/res/layout/spinner_item.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/drawable-v24/button.xml" value="0.1235" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1235" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/drawable/ic_google.xml" value="0.1135" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/activity_add_car.xml" value="0.18857142857142858" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/activity_add_task.xml" value="0.1" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/activity_forget_password.xml" value="0.1" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/activity_login.xml" value="0.3699731903485255" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/activity_main.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/activity_task_main.xml" value="0.1" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/activity_update_task.xml" value="0.1" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/activity_user_main.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/frame_list.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/item_recyclerdoctor.xml" value="0.1125" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/item_view_reservations.xml" value="0.1125" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/item_viewdoctor_info.xml" value="0.1" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/list_black_text.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/layout/spinner_item.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/manas/OneDrive/Escritorio/firebase-auth-android/app/src/main/res/menu/option_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/card_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/card_background_inside.xml" value="0.1638888888888889" />
+        <entry key="app/src/main/res/drawable-v24/edit_text_background.xml" value="0.1638888888888889" />
+        <entry key="app/src/main/res/drawable-v24/ic_android.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_check_24.xml" value="0.1638888888888889" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-v24/ic_notification.xml" value="0.1638888888888889" />
+        <entry key="app/src/main/res/drawable/btn_circle.xml" value="0.1638888888888889" />
+        <entry key="app/src/main/res/drawable/btn_shearch.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button_background_blue.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_add_img.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_back_blue.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_back_img.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_address.xml" value="0.1254295532646048" />
+        <entry key="app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.10277777777777777" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1638888888888889" />
+        <entry key="app/src/main/res/drawable/ic_login_hero.xml" value="0.1638888888888889" />
+        <entry key="app/src/main/res/drawable/ic_register_hero.xml" value="0.16203703703703703" />
+        <entry key="app/src/main/res/layout/activity_add_doctor.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_add_hospital.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_add_specialty.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_admin.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_admin_doctor.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_admin_hospital.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/activity_admin_specialty.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_create_reservations.xml" value="0.11" />
+        <entry key="app/src/main/res/layout/activity_forget_password.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_update_doctor.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_update_hospital.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_update_speciality.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_user.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_user_doctor.xml" value="0.11597222222222223" />
+        <entry key="app/src/main/res/layout/activity_user_main.xml" value="0.11" />
+        <entry key="app/src/main/res/layout/activity_user_specialty.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_view_doctor.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_view_hospital.xml" value="0.11" />
+        <entry key="app/src/main/res/layout/activity_view_reservations.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_view_specialty.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/frame_list.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/item_recyclerdoctor.xml" value="0.11597222222222223" />
+        <entry key="app/src/main/res/layout/item_recyclerspecialty.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/layout/item_recyclerview.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/item_view_reservations.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_viewdoctor_info.xml" value="0.11597222222222223" />
+        <entry key="app/src/main/res/layout/list_black_text.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/selector_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/spinner_item.xml" value="0.17395833333333333" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/agiles.xml" value="0.17407407407407408" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/agiles_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

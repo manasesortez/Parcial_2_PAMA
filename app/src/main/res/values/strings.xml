@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agile Reserves</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+
+    <string name="id_public_key">455143960184-t7utc1dt8b0ukhfnkcut3i29eu1bnp1q.apps.googleusercontent.com</string>
+</resources>

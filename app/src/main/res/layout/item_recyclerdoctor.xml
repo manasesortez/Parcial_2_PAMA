@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@android:id/text1"
+    android:clickable="true"
+    android:focusable="true"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+    android:backgroundTint="@color/primaryTextColor"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:orientation="vertical"
+        android:background="@android:color/white"
+        android:layout_marginBottom="5dp"
+        tools:ignore="UselessLeaf">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Doctor Information"
+            android:id="@+id/DoctorID"
+            android:textSize="18dp"
+            android:textColor="#000"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText,SpUsage" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Doctor"
+            android:id="@+id/DoctorName"
+            android:layout_marginTop="10dp"
+            android:textColor="#000"
+            tools:ignore="HardcodedText,SpUsage" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Specialty ID:"
+            android:textColor="#000"
+            android:id="@+id/HospitalNameDoctor"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Specialty Name"
+            android:textColor="#000"
+            android:id="@+id/SpecialtyNameDoctor"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Direccion"
+            android:textColor="#000"
+            android:id="@+id/DireccionDoctor"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Costo"
+            android:textColor="#000"
+            android:id="@+id/CostoDoctor"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Dias Habilidades"
+            android:textColor="#000"
+            android:id="@+id/DiasHabilesDoctor"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Hora Entrada"
+            android:textColor="#000"
+            android:id="@+id/horaEntradaDoctor"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Hora Salida"
+            android:textColor="#000"
+            android:id="@+id/horaSalidaDoctor"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
